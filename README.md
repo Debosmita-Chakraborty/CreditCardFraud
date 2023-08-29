@@ -1,5 +1,5 @@
 # CreditCardFraud
-Classifying fraudulent credit card transactions in anonymized dataset
+Detecting fraudulent credit card transactions in anonymized dataset using Supervised Machine Learning (Classification)
 
 ## Context
 Finance meets crime fighting! Two fascinating subjects combined, with the additional challenge of an anonymized dataset, made this project a thrill to work on. I found it incredibly motivating to work on something that has such a real-world impact- losses from financial fraud affect both large financial institutions and ordinary people.
